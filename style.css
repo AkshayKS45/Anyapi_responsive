@@ -1,0 +1,38 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Sora, "sans-serif";
+    line-height: 1;
+}
+
+.nav-link{
+    font-size: 1rem;
+    color: rgb(86, 85, 85);
+}
+.collapse{
+    margin-left: 17rem;
+}
+.section{
+    margin-top: 6rem;
+}
+.font{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: rgb(94, 94, 94);
+}
+.section-4{
+    margin-top: 7rem;
+}
+#image{
+    height: 80px;
+}
+.section-6{
+    margin-top: 7rem;
+}
+#imgg{
+    height: 70px;
+}
